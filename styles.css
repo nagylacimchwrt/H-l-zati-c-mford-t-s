@@ -59,3 +59,9 @@ p{
   text-align: justify;
   text-indent: 25px;
 }
+
+.imgtitle{
+  text-align: center;
+  font-style: italic;
+  line-height: 130%;
+}
