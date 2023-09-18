@@ -50,6 +50,7 @@ p.imgtitle {
 table,
 .frame {
   border: 3px solid green;
+  border-collapse: collapse;
 }
 
 a:link,
