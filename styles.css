@@ -54,3 +54,8 @@ a:visited {
   color: blue;
   text-decoration: none;
 }
+
+p{
+  text-align: justify;
+  text-indent: 25px;
+}
