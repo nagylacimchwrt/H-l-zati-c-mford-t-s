@@ -68,3 +68,7 @@ p{
   font-style: italic;
   line-height: 130%;
 }
+
+a:hover{
+  color: yellow;
+}
